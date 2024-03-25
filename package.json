@@ -1,0 +1,20 @@
+{
+  "name": "swforce",
+  "version": "1.0.0",
+  "author": "Nicolás Batista Piñeyro",
+  "homepage": "https://nicolasbatista.codeando.es/",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
